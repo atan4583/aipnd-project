@@ -4,18 +4,14 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 Deliverables
 	Part 1
-	Image Classifier Project_gpu.html
-		Completed Jupyter Notebook with run results from GPU environment
+	Image Classifier Project_gpu.html : Completed Jupyter Notebook with run results from GPU environment
 
-	Image Classifier Project_cpu.html
-		Completed Jupyter Notebook with run results from CPU environment
+	Image Classifier Project_cpu.html : Completed Jupyter Notebook with run results from CPU environment
 
-   Part 2
-	train.py
-		Python command line app for training a new network on a dataset and saving the model as a checkpoint
+  Part 2
+	train.py : Python command line app for training a new network on a dataset and saving the model as a checkpoint
 
-	predict.py
-		Python command line app for using a saved checkpoint to predict the class for an input image
+	predict.py : Python command line app for using a saved checkpoint to predict the class for an input image
 
 Supporting files
 	cat_to_name.json
@@ -25,7 +21,7 @@ Installation Instruction
 	unzip the zip archive into a folder structured like the aipnd-project folder with datasets in the flowers folder
 
 Run Instruction
-	to run Part 1 deliverable as .ipynb, copy its cell contents into Image Classifier Project.ipynb in aip-project workspace
+To run Part 1 deliverable as .ipynb, copy its cell contents into Image Classifier Project.ipynb in aip-project workspace
 
     run train.py and predict.py in a terminal session in the aip-project workspace.
     predict.py can run in either CPU or GPU mode, it will verify a valid checkpoint is present before starting prediction
