@@ -4,9 +4,11 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 Deliverables
 	Part 1
-	Image Classifier Project_gpu.html : Completed Jupyter Notebook with run results from GPU environment
+	Image Classifier Project_gpu.html
+		Completed Jupyter Notebook with run results from GPU environment
 
-	Image Classifier Project_cpu.html : Completed Jupyter Notebook with run results from CPU environment
+	Image Classifier Project_cpu.html
+		Completed Jupyter Notebook with run results from CPU environment
 
   Part 2
 	train.py : Python command line app for training a new network on a dataset and saving the model as a checkpoint
