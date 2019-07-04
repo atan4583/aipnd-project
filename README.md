@@ -1,3 +1,8 @@
+# AI Programming with Python Nanodegree (AIPND), Udacity
+This repo contains project deliverables from my AIPND course work.
+ ---
+
+![png](AIPND.png)
 # AI Programming with Python Project
 
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
@@ -5,21 +10,21 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 Deliverables
 
   Part 1
-		
+
 	Image Classifier Project_gpu.html
 		Completed Jupyter Notebook with run results from GPU environment
-		
+
 	Image Classifier Project_cpu.html
 		Completed Jupyter Notebook with run results from CPU environment
 
   Part 2
-  
+
 	train.py : Python command line app for training a new network on a dataset and saving the model as a checkpoint
 
 	predict.py : Python command line app for using a saved checkpoint to predict the class for an input image
 
 Supporting files
-	
+
 	cat_to_name.json
 	workspace_utils.py
 
@@ -54,7 +59,7 @@ Run Instruction
         -lr LEARNING_RATE, --learning_rate LEARNING_RATE
                               learning rate (default: 0.001)
         -dout DROPOUT, --dropout DROPOUT
-                        dropout rate (default: 0.5)                        
+                        dropout rate (default: 0.5)
         -hu HIDDEN_UNITS, --hidden_units HIDDEN_UNITS
                               hidden units, one or multiple values (comma separated)
                               enclosed in single quotes. Ex1. one value: '500' Ex2.
